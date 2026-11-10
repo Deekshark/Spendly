@@ -1,0 +1,6 @@
+{
+  "name": "Karchu Expense Tracker",
+  "description": "Modern neo-banking personal expense tracker with budget intelligence, spending trends, category breakdown, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
